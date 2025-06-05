@@ -1,5 +1,5 @@
 {
     "title": "My Invocable Action Output",
-    "description": "Fullname from MyInvocableActionOutput",
-    "lightning:type": "@apexClassType/c__MyInvocableAction$MyInvocableActionOutput"
+    "description": "Fullname from MyInvocableActionFullname",
+    "lightning:type": "@apexClassType/c__MyInvocableAction$MyInvocableActionFullnames"
   }

@@ -1,3 +1,5 @@
 <template>
-    <div class="fullname">{fullname}</div>
+    <template for:each={names} for:item="f">
+        <div key={f.key} class="fullname">{f.fullname}</div>
+    </template>
 </template>
