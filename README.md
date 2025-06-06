@@ -4,6 +4,6 @@ Simple prototype project to test out custom lightning types for Agentforce actio
 
 The screenshots to this post show the difference between having Agentforce do the rendering (pure text) and a custom rendering (the blue text). There is also a screenshot of the action definition where the output rendering is changed.
 
-![Screenshot of standard text rendering of apex action output.](/assets/images/screenshot_textrendering.jpg)
-![Screenshot of custom LWC rendering of apex action output.](/assets/images/screenshot_customrendering.jpg)
-![Screenshot of mapping custom rendering of an apex action.](/assets/images/screenshot_mapping.jpg)
+![Screenshot of standard text rendering of apex action output.](/images/screenshot_textrendering.jpg)
+![Screenshot of custom LWC rendering of apex action output.](/images/screenshot_customrendering.jpg)
+![Screenshot of mapping custom rendering of an apex action.](/images/screenshot_mapping.jpg)
